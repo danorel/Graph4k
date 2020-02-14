@@ -43,8 +43,10 @@ public class Edge4k implements Comparable<Edge4k> {
     @Override
     public String toString() {
         return new StringBuilder()
+                .append("[")
                 .append(_f)
                 .append(_s)
+                .append("]")
                 .toString();
     }
 }
