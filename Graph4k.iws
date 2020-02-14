@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ed6c600-60e8-4e4a-863c-43b88eaaa5d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BinarySearch/BinarySearch.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinarySearch/BinarySearch.iws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinarySearch/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinarySearch/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinarySearch/src/main/java/algo/Algorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinarySearch/src/main/java/sort/SortManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinarySearch/src/main/java/sort/SortUtilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinarySearch/src/main/java/sort/merge/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinarySearch/src/main/java/sort/merge/MergeSortUtilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CircleLinkedList/CircleLinkedList.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CircleLinkedList/CircleLinkedList.iws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CircleLinkedList/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CircleLinkedList/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CircleLinkedList/src/main/java/cll/CircularLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComplexNumber/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComplexNumber/src/main/java/cn/Complex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Division/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Division/src/main/java/NumberDivide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/graph/Graph4k.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/graph/body/Edge4k.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/graph/body/Vertex4k.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GraphSearch/GraphSearch.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GraphSearch/GraphSearch.iws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GraphSearch/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GraphSearch/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GraphSearch/src/main/java/graph/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GraphSearch/src/main/java/graph/consistsOf/DoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GraphSearch/src/main/java/graph/exceptions/EmptyArrayException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GraphSearch/src/main/java/graph/exceptions/EmptyInputDataException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GraphSearch/src/main/java/graph/exceptions/GraphAdjacencyInitException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GraphSearch/src/main/java/graph/exceptions/GraphInitializationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HammingDistance/HammingDistance.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HammingDistance/HammingDistance.iws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HammingDistance/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HammingDistance/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HammingDistance/src/main/java/algorithm/HammingDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ImageAnimationTest/src/sample/Sprite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpaceDefenders/models/effects/meteor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpaceDefenders/models/plane_models/aircraft-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpaceDefenders/models/plane_models/aircraft-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpaceDefenders/models/plane_models/aircraft-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpaceDefenders/models/plane_models/aircraft-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpaceDefenders/models/plane_models/alien-model-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpaceDefenders/models/plane_models/alien-model-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpaceDefenders/models/plane_models/alien-model-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpaceDefenders/models/plane_models/alien-model-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpaceDefenders/models/plane_models/alien-model-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpaceDefenders/src/main/java/game/SpaceDefenders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpaceDefenders/src/main/java/game/board/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpaceDefenders/src/main/java/game/creatures/Sprite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpaceDefenders/src/main/java/game/creatures/hero/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpaceDefenders/src/main/java/game/creatures/hero/Shot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpaceDefenders/src/main/java/game/creatures/hero/target/Alien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpaceDefenders/src/main/java/game/creatures/hero/target/AlienModels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpaceDefenders/src/main/java/game/preferences/Preferences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/src/main/java/bst/BFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animation/acm.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Binary-Tree/Binary-Tree.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../Binary-Tree/Binary-Tree.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Developing Skills" beforeDir="false" afterPath="$PROJECT_DIR$/../Developing Skills" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Draw/src/com/draw/party.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Filter/Filter.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../Filter/Filter.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Filter/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Filter/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Filter/src/main/java/algorithm/Filter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Filter/src/main/java/algorithm/Filter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LambdaApp" beforeDir="false" afterPath="$PROJECT_DIR$/../LambdaApp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/src/upgrade/linkedlist/DoublyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/src/upgrade/linkedlist/SinglyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/src/upgrade/linkedlist/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/src/upgrade/linkedlist/Tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Multithreading" beforeDir="false" afterPath="$PROJECT_DIR$/../Multithreading" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RedBlackTree/RedBlackTree.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../RedBlackTree/RedBlackTree.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Chat" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Chat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tree/src/dev/tree/datastructure/BinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tree/src/dev/tree/datastructure/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trie/Trie.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/../Trie/Trie.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trie/Trie.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../Trie/Trie.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trie/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Trie/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trie/src/main/java/trie/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Trie/src/main/java/trie/Trie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service" beforeDir="false" afterPath="$PROJECT_DIR$/../Web-Service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/WebChat.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/../WebChat/WebChat.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/WebChat.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../WebChat/WebChat.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/.scss-lint.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/dist/spectre-exp.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/dist/spectre-exp.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/dist/spectre-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/dist/spectre-icons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/dist/spectre.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/dist/spectre.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/components.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/components/empty.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/components/modals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/components/popovers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/components/tabs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/components/toasts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/components/tooltips.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/dist/docs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/dist/docs.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/dist/spectre-exp.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/dist/spectre-exp.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/dist/spectre-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/dist/spectre-icons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/dist/spectre.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/dist/spectre.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/elements.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/elements/code.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/elements/labels.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/elements/typography.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/experimentals/autocomplete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/experimentals/carousels.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/experimentals/filters.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/experimentals/off-canvas.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/experimentals/sliders.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/getting-started/custom.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/getting-started/whatsnew.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/img/avatar-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/img/avatar-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/img/avatar-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/img/avatar-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/img/favicons/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/img/macos-sierra-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/img/macos-sierra.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/img/osx-el-capitan-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/img/osx-el-capitan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/img/osx-yosemite-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/img/osx-yosemite.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/rtl.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/src/components.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/src/components/accordions.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/src/components/avatars.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/src/components/cards.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/src/components/menu.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/src/components/modals.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/src/components/panels.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/src/components/tabs.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/src/elements/buttons.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/src/elements/media.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/src/elements/tables.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/src/elements/typography.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/src/experimentals/autocomplete.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/src/experimentals/calendars.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/src/experimentals/carousels.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/src/experimentals/filters.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/src/getting-started/custom.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/src/layout/grid.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/src/layout/responsive.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/src/scss/docs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/utilities.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/utilities/colors.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/utilities/divider.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/utilities/loading.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/docs/utilities/text.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/src/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/src/_layout.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/css/spectre-0.5.8/src/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/fonts/Bombinate.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/fonts/DroidSerif-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/fonts/DroidSerif-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/images/logo/do_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebChat/web/page.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/.scss-lint.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/dist/spectre-exp.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/dist/spectre-exp.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/dist/spectre-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/dist/spectre-icons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/dist/spectre.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/components/accordions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/components/avatars.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/components/badges.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/components/bars.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/components/breadcrumbs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/components/cards.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/components/chips.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/components/menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/components/nav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/components/pagination.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/components/panels.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/components/steps.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/components/tiles.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/components/tooltips.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/dist/docs.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/dist/spectre-exp.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/dist/spectre-exp.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/dist/spectre-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/dist/spectre-icons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/dist/spectre-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/dist/spectre-rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/dist/spectre.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/dist/spectre.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/elements.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/elements/buttons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/elements/forms.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/elements/icons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/elements/labels.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/elements/media.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/elements/tables.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/experimentals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/experimentals/calendars.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/experimentals/carousels.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/experimentals/comparison.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/experimentals/filters.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/experimentals/meters.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/experimentals/parallax.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/experimentals/progress.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/experimentals/timelines.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/experimentals/viewer-360.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/getting-started.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/getting-started/browsers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/getting-started/installation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/img/avatar-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/img/avatar-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/img/avatar-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/img/avatar-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/img/favicons/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/img/favicons/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/img/macos-sierra.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/img/osx-el-capitan-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/img/osx-el-capitan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/img/osx-yosemite.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/layout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/layout/grid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/layout/hero.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/layout/navbar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/layout/responsive.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/rtl.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/src/_layout/_docs-layout.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/src/components.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/src/components/accordions.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/src/components/avatars.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/src/components/bars.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/src/components/cards.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/src/components/menu.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/src/components/modals.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/src/components/panels.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/src/components/tabs.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/src/elements/buttons.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/src/elements/forms.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/src/elements/icons.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/src/elements/media.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/src/elements/tables.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/src/elements/typography.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/src/experimentals.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/src/experimentals/autocomplete.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/src/experimentals/calendars.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/src/experimentals/carousels.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/src/experimentals/filters.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/src/getting-started/custom.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/src/layout/grid.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/src/layout/responsive.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/utilities/cursors.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/utilities/display.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/utilities/position.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/utilities/shapes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/docs/utilities/text.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/src/_calendars.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/src/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/src/_layout.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/src/_normalize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/src/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/css/spectre-0.5.8/src/icons/_icons-action.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/fonts/Bombinate.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/fonts/DroidSerif-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/fonts/DroidSerif-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/fonts/DroidSerif-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/images/background/background-11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/images/logo/do_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/web/registration.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/dist/spectre-exp.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/dist/spectre-exp.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/dist/spectre-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/dist/spectre-icons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/dist/spectre.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/components/popovers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/components/tiles.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/dist/docs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/dist/spectre-exp.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/dist/spectre-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/dist/spectre-icons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/dist/spectre-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/dist/spectre-rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/dist/spectre.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/dist/spectre.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/elements/code.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/elements/icons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/experimentals/autocomplete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/getting-started/custom.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/getting-started/installation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/img/avatar-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/img/avatar-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/img/avatar-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/img/favicons/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/img/macos-sierra-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/img/osx-el-capitan-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/img/osx-yosemite-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/img/osx-yosemite.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/rtl.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/src/_layout/_docs-layout.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/src/components/avatars.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/src/components/bars.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/src/components/menu.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/src/elements/buttons.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/src/elements/icons.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/src/elements/typography.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/src/experimentals.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/src/experimentals/autocomplete.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/src/experimentals/calendars.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/src/experimentals/carousels.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/src/experimentals/filters.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/src/getting-started/custom.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/src/scss/docs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/docs/utilities/cursors.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/src/_calendars.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/src/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/src/_layout.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/src/_normalize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTraining/web/WEB-INF/jsp/spectre-0.5.8/src/icons/_icons-action.scss" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1181326540">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="3811" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="3811" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/graph/Graph4k.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#349#350#0" expanded="true" />
+                <element signature="e#321#322#0" expanded="true" />
+                <element signature="e#369#370#0" expanded="true" />
+                <element signature="e#586#587#0" expanded="true" />
+                <element signature="e#638#639#0" expanded="true" />
+                <element signature="e#1251#1252#0" expanded="true" />
+                <element signature="e#1302#1303#0" expanded="true" />
+                <element signature="e#2407#2408#0" expanded="true" />
+                <element signature="e#2466#2467#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/graph/body/Edge4k.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="e#280#281#0" expanded="true" />
+                <element signature="e#304#305#0" expanded="true" />
+                <element signature="e#334#335#0" expanded="true" />
+                <element signature="e#359#360#0" expanded="true" />
+                <element signature="e#290#291#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+                <element signature="e#295#296#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/graph/body/Vertex4k.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-98">
+              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <folding>
+                <element signature="e#147#148#0" expanded="true" />
+                <element signature="e#174#175#0" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+                <element signature="e#228#229#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
+                <element signature="e#530#531#0" expanded="true" />
+                <element signature="e#569#570#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../World Of Universe" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/graph/Interface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/graph/body/Edge4k.java" />
+        <option value="$PROJECT_DIR$/src/main/java/graph/body/Vertex4k.java" />
+        <option value="$PROJECT_DIR$/src/main/java/graph/Graph4k.java" />
+        <option value="$PROJECT_DIR$/src/main/java/App.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="45" />
+    <option name="width" value="1235" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Graph4k" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Graph4k" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Graph4k" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Graph4k" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Graph4k" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Graph4k" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Graph4k" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Graph4k" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Graph4k" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Graph4k" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="graph" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Graph4k" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Graph4k" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="graph" type="462c0819:PsiDirectoryNode" />
+              <item name="body" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576533826037" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="Graph4k" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ed6c600-60e8-4e4a-863c-43b88eaaa5d0" name="Default Changelist" comment="" />
+      <created>1576431970898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576431970898</updated>
+      <workItem from="1576431976291" duration="11905000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11905000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="45" y="0" width="1235" height="800" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24979044" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Jelastic" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Floobits" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32909605" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997175" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/graph/Interface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/graph/body/Edge4k.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/graph/body/Vertex4k.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-98">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/graph/Graph4k.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+            <element signature="e#1251#1252#0" expanded="true" />
+            <element signature="e#1302#1303#0" expanded="true" />
+            <element signature="e#2407#2408#0" expanded="true" />
+            <element signature="e#2466#2467#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
